@@ -105,7 +105,8 @@ export default {
     justify-content: space-between;
     height: 89px;
     padding: 0px;
-    margin: 0px 100px 0px 100px;
+    max-width: 1400px;
+    padding: 0px 100px 0px 100px;
     font-weight: 600;
     font-size: 18px;
     line-height: 22px;

@@ -14,6 +14,8 @@
 body{
   margin: 0 auto;
   font-family: 'proxima';
+  display: flex;
+  justify-content: center;
 }
 
 </style>
